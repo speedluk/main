@@ -12,11 +12,12 @@
         "urlCapa": "https://drive.google.com/uc?export=download&id=OUTRO_FILE_ID_CAPA"
     },
     {
-        "nome": "Ultimate Mortal Kombat 3",
-        "plataforma": "snes",
-        "urlRom": "https://main-gray-nine.vercel.app/roms/snes/smw.smc",
-        "extensaoRom": ".smc",
-        "urlCapa": "https://main-gray-nine.vercel.app/covers/snes/smw.jpg",
-        "extensaoCapa": ".jpg"
-    }
+  "nome": "Ultimate Mortal Kombat 3",
+  "plataforma": "snes",
+  "urlRom": "https://main-gray-nine.vercel.app/roms/snes/Ultimate%20Mortal%20Kombat%203.smc",
+  "extensaoRom": ".smc",
+  "urlCapa": "https://main-gray-nine.vercel.app/covers/snes/Ultimate%20Mortal%20Kombat%203.jpg",
+  "extensaoCapa": ".jpg"
+}
+
 ]
