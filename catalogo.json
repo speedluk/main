@@ -14,9 +14,9 @@
     {
   "nome": "Ultimate Mortal Kombat 3",
   "plataforma": "snes",
-  "urlRom": "https://main-gray-nine.vercel.app/roms/snes/Ultimate%20Mortal%20Kombat%203.smc",
+  "urlRom": "https://github.com/speedluk/main/blob/main/roms/snes/Ultimate%20Mortal%20Kombat%203.sfc",
   "extensaoRom": ".smc",
-  "urlCapa": "https://main-gray-nine.vercel.app/covers/snes/Ultimate%20Mortal%20Kombat%203.jpg",
+  "urlCapa": "https://github.com/speedluk/main/blob/main/covers/snes/Ultimate%20Mortal%20Kombat%203.jpg",
   "extensaoCapa": ".jpg"
 }
 
